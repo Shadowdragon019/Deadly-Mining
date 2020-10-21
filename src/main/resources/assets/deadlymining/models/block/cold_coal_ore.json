@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "deadlymining:blocks/coal_coal_ore",
+    "particle": "deadlymining:blocks/coal_coal_ore"
+  }
+}

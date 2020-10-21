@@ -1,0 +1,62 @@
+{
+  "_fv": 10,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:FlamingWheatStage0"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage1"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage2"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage3"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage4"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage5"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage6"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage7"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:FlamingWheatStage0"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage1"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage2"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage3"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage4"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage5"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage6"
+      },
+      {
+        "value": "CUSTOM:FlamingWheatStage7"
+      }
+    ],
+    "functions": [],
+    "name": "flaming_wheat_all",
+    "namespace": "forge"
+  }
+}

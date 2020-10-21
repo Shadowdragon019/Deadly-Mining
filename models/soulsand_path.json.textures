@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "soulsand path top": "soulsand_path_top",
+        "soulsand path": "soulsand_path",
+        "soul_sand": "soul_sand"
+      },
+      "name": "default"
+    }
+  }
+}

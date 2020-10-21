@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "deadlymining:blocks/oak_planks",
+    "up": "deadlymining:blocks/casting_table_top",
+    "north": "deadlymining:blocks/casting_table_side",
+    "east": "deadlymining:blocks/casting_table_front",
+    "south": "deadlymining:blocks/casting_table_side",
+    "west": "deadlymining:blocks/casting_table_front",
+    "particle": "deadlymining:blocks/oak_planks"
+  }
+}

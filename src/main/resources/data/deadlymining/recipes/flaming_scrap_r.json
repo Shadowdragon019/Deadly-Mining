@@ -1,0 +1,42 @@
+{
+  "group": "rune_crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "deadlymining:flaming_beryy"
+    },
+    "1": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "2": {
+      "item": "deadlymining:flaming_beryy"
+    },
+    "3": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "4": {
+      "item": "deadlymining:diamond_bucket_full"
+    },
+    "5": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "6": {
+      "item": "deadlymining:flaming_beryy"
+    },
+    "7": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "8": {
+      "item": "deadlymining:flaming_beryy"
+    }
+  },
+  "result": {
+    "item": "deadlymining:flaming_scrap",
+    "count": 1
+  }
+}

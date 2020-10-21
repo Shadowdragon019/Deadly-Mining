@@ -1,0 +1,9 @@
+{
+  "parent": "deadlymining:custom/soulsand_moist_farmland",
+  "textures": {
+    "all": "deadlymining:blocks/soulsand_farmland_moist",
+    "particle": "deadlymining:blocks/soulsand_farmland_moist",
+    "soulsand farmland moist": "deadlymining:blocks/soulsand_farmland_moist",
+    "soulsand moist": "deadlymining:blocks/soulsand_moist"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "mining_helmet",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_block"
+    },
+    "1": {
+      "item": "minecraft:glowstone"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "minecraft:redstone_block"
+    },
+    "4": {
+      "item": "minecraft:iron_helmet"
+    },
+    "5": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "deadlymining:breaking_blocks_helmet_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "group": "diamond_bucket",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "deadlymining:diamond_bucket",
+    "count": 1
+  }
+}

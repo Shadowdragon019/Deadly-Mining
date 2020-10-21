@@ -1,0 +1,39 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "flaming_hoe",
+    "customModelName": "Normal",
+    "name": "Flaming Hoe",
+    "specialInfo": [
+      "Shift-click on soulsand to gather seeds",
+      "Will take a bit"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 14.0,
+    "attackSpeed": 4.5,
+    "enchantability": 24,
+    "damageVsEntity": 1.5,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:FlamingIngotCooled"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "FlamingHoeRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "FlamingSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

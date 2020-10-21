@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flaming_stage6",
+        "missing": "flaming_stage6"
+      },
+      "name": "default"
+    }
+  }
+}

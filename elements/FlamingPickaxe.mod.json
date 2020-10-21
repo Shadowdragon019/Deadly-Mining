@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "flaming_pickaxe",
+    "customModelName": "Normal",
+    "name": "Flaming Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 14.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 24,
+    "damageVsEntity": 6.5,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:FlamingIngotCooled"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "FlamingPickaxeRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "FlamingSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

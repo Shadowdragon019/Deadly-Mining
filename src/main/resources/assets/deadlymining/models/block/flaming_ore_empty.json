@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "deadlymining:blocks/flaming_ore_empty",
+    "particle": "deadlymining:blocks/flaming_ore_empty"
+  }
+}

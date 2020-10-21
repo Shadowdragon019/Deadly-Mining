@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "deadlymining:flaming_sword",
+    "deadlymining:flaming_shovel",
+    "deadlymining:flaming_pickaxe",
+    "deadlymining:flaming_axe",
+    "deadlymining:flaming_hoe",
+    "deadlymining:flaming_ingot_cooled"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "deadlymining:flaming_wheat_stage_0",
+    "deadlymining:flaming_wheat_stage_1",
+    "deadlymining:flaming_wheat_stage_2",
+    "deadlymining:flaming_wheat_stage_3",
+    "deadlymining:flaming_wheat_stage_4",
+    "deadlymining:flaming_wheat_stage_5",
+    "deadlymining:flaming_wheat_stage_6",
+    "deadlymining:flaming_wheat_stage_7"
+  ]
+}

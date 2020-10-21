@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "deadlymining:items/flaming_shovel"
+  }
+}

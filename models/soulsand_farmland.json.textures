@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "soul_sand": "soul_sand",
+        "soulsand farmland": "soulsand_farmland"
+      },
+      "name": "default"
+    }
+  }
+}

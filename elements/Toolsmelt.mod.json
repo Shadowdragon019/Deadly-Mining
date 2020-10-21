@@ -1,0 +1,31 @@
+{
+  "_fv": 10,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FlamingSword"
+      },
+      {
+        "value": "CUSTOM:FlamingShovel"
+      },
+      {
+        "value": "CUSTOM:FlamingPickaxe"
+      },
+      {
+        "value": "CUSTOM:FlamingAxe"
+      },
+      {
+        "value": "CUSTOM:FlamingHoe"
+      },
+      {
+        "value": "CUSTOM:FlamingIngotCooled"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "tool_smelt",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "deadlymining:custom/flamingwheatstage7",
+  "textures": {
+    "all": "deadlymining:blocks/flaming_stage7",
+    "particle": "deadlymining:blocks/flaming_stage7",
+    "0": "deadlymining:blocks/flaming_stage7",
+    "missing": "deadlymining:blocks/flaming_stage7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "flaming_bow_r",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "deadlymining:flaming_beryy"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "deadlymining:flaming_beryy"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "deadlymining:flaming_bow",
+    "count": 1
+  }
+}

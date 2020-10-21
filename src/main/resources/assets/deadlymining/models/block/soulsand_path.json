@@ -1,0 +1,10 @@
+{
+  "parent": "deadlymining:custom/soulsand_path",
+  "textures": {
+    "all": "deadlymining:blocks/soulsand_path_top",
+    "particle": "deadlymining:blocks/soulsand_path_top",
+    "soulsand path top": "deadlymining:blocks/soulsand_path_top",
+    "soulsand path": "deadlymining:blocks/soulsand_path",
+    "soul_sand": "deadlymining:blocks/soul_sand"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "flaming_pickaxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "1": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "2": {
+      "item": "deadlymining:flaming_ingot_cooled"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "deadlymining:flaming_pickaxe",
+    "count": 1
+  }
+}
